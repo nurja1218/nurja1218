@@ -14,6 +14,9 @@
     - ![AWS ECS](https://img.shields.io/badge/-AWS_ECS-569A31?style=flat-square&logo=amazon-aws&logoColor=white), ![AWS CodePipeline](https://img.shields.io/badge/-AWS_CodePipeline-3FC1C9?style=flat-square&logo=amazon-aws&logoColor=white), ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white), ![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white), ![AWS Secrets Manager](https://img.shields.io/badge/-AWS_Secrets_Manager-5D6874?style=flat-square&logo=amazon-aws&logoColor=white),
 ![AWS CodeCommit](https://img.shields.io/badge/-AWS_CodeCommit-F6A307?style=flat-square&logo=amazon-aws&logoColor=white), ![AWS CodeBuild](https://img.shields.io/badge/-AWS_CodeBuild-FE7A37?style=flat-square&logo=amazon-aws&logoColor=white), ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-5D6874?style=flat-square&logo=amazon-aws&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+### 📈 Progress
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurja1218&theme=dark&layout=compact)
 
 [![당신의 깃허브 커밋 streak](https://github-readme-streak-stats.herokuapp.com/?user=nurja1218&theme=dark)](https://git.io/streak-stats)
