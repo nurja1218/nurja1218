@@ -15,6 +15,6 @@
 
 - 📧 Email: nurja1218@gmail.com
 - 🌐 Work Experience: https://languid-cashew-36d.notion.site/Work-Experience-6bdcfa3af4064ce09624ac16625a5a3e?pvs=4
-- 🔗 LinkedIn: linkedin.com/in/junyoung-lim
+- 🔗 LinkedIn: [linkedin.com/in/junyoung-lim](https://www.linkedin.com/in/junyoung-lim-904179249/)https://www.linkedin.com/in/junyoung-lim-904179249/
 
 ---
