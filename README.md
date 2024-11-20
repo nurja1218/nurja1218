@@ -1,7 +1,7 @@
 ### 👋
 안녕하세요 비지니스를 로직으로 풀어내는 것을 좋아하며, 협업과 소통을 중요시하는 백엔드 엔지니어 임준영입니다.
 
-### 🛠 Skills## 
+### 🛠 Skills
 
 ## **Backend Development**
 - ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/-REST_API-02569B?style=flat-square&logo=api&logoColor=white)
