@@ -1,5 +1,5 @@
 ### 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=25&multiline=true&pause=100&color=1AA8AEE6&random=false&width=550&height=70&lines=안녕하세요+비지니스를+로직으로+풀어내는+것을+좋아하며,;협업과+소통을+중요시하는+백엔드+엔지니어+임준영입니다.;)](https://git.io/typing-svg)
+[![Typing SVG](안녕하세요+비지니스를+로직으로+풀어내는+것을+좋아하며,;협업과+소통을+중요시하는+백엔드+엔지니어+임준영입니다.;)](https://git.io/typing-svg)
 
 ### 🛠 Skills
 - **Backend**: 
