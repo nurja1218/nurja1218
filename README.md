@@ -1,41 +1,15 @@
-### 👋
-안녕하세요 비지니스를 로직으로 풀어내는 것을 좋아하며, 협업과 소통을 중요시하는 백엔드 엔지니어 임준영입니다.
+### 임준영 · Backend Engineer
 
-### 🛠 Skills
+물류 · 커머스 · AI 통번역 도메인에서 제품을 만들어 온 백엔드 엔지니어입니다.
+사용자가 겪는 문제에서 출발해 원인을 측정으로 확인하고, 구현과 결과 측정까지 맡습니다.
 
-## **Backend Development**
-- ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/-REST_API-02569B?style=flat-square&logo=api&logoColor=white)
-- ![TypeORM](https://img.shields.io/badge/-TypeORM-FE2E2E?style=flat-square&logo=typeorm&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+- 멀티 리전 저장소 설계 — DynamoDB Global Tables · 리전별 Redis로 해외 리전 API 응답 80~97% 단축 (재현 환경 측정)
+- 지식그래프(PostgreSQL + pgvector) 기반 번역 · AI 어시스턴트 초개인화
+- LangSmith 기반 LLM 프롬프트 관리 · 자동 채점 게이트
+- 기능 단위 오너 — PRD · Figma 시안 · 서버 명세부터
 
-## **Data Engineering**
-- ![AWS RDS](https://img.shields.io/badge/-AWS_RDS-527FFF?style=flat-square&logo=amazon-aws&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-- ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**📄 이력서 · 경력기술서 → https://nurja1218.github.io/portfolio/**
 
-## **Frontend Development**
-- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Recoil](https://img.shields.io/badge/-Recoil-007FFF?style=flat-square&logo=recoil&logoColor=white) ![Apollo Client](https://img.shields.io/badge/-Apollo_Client-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)
-- ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white) ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+`TypeScript` `NestJS` `PostgreSQL` `DynamoDB` `Redis` `OpenSearch` `LLM` `AWS`
 
-## **Infrastructure & DevOps**
-- ![AWS ECS](https://img.shields.io/badge/-AWS_ECS-569A31?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS CodePipeline](https://img.shields.io/badge/-AWS_CodePipeline-3FC1C9?style=flat-square&logo=amazon-aws&logoColor=white)
-- ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS Secrets Manager](https://img.shields.io/badge/-AWS_Secrets_Manager-5D6874?style=flat-square&logo=amazon-aws&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![CloudFront](https://img.shields.io/badge/-CloudFront-8F62A3?style=flat-square&logo=amazon-aws&logoColor=white)
-
-
-
-
-### 📈 Progress
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurja1218&theme=dark&layout=compact)
-
-[![당신의 깃허브 커밋 streak](https://github-readme-streak-stats.herokuapp.com/?user=nurja1218&theme=dark)](https://git.io/streak-stats)
-
-
-### 📞 Contact
-
-[![Email](https://img.shields.io/badge/Email-nurja1218%40gmail.com-brightgreen?style=flat-square&logo=gmail&logoColor=white)](mailto:nurja1218@gmail.com)
-[![Work Experience](https://img.shields.io/badge/Work_Experience-Notion-blue?style=flat-square&logo=notion&logoColor=white)](https://languid-cashew-36d.notion.site/Work-Experience-6bdcfa3af4064ce09624ac16625a5a3e?pvs=4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Junyoung_Lim-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/junyoung-lim)
-
----
+[nurja1218@gmail.com](mailto:nurja1218@gmail.com) · [LinkedIn](https://www.linkedin.com/in/junyoung-lim-904179249/)
