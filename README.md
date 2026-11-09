@@ -6,7 +6,7 @@
 - 멀티 리전 저장소 설계 — DynamoDB Global Tables · 리전별 Redis로 해외 리전 API 응답 80~97% 단축 (재현 환경 측정)
 - 지식그래프(PostgreSQL + pgvector) 기반 번역 · AI 어시스턴트 초개인화
 - LangSmith 기반 LLM 프롬프트 관리 · 자동 채점 게이트
-- 기능 단위 오너 — PRD · Figma 시안 · 서버 명세부터
+- 제품 단위 오너 — PRD · Figma 시안 · 서버/클라 명세부터
 
 **📄 이력서 · 경력기술서 → https://nurja1218.github.io/portfolio/**
 
